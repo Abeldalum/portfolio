@@ -1,0 +1,46 @@
+body {background-color: cornsilk}
+
+header h1 {
+    margin: auto;
+    width: 640px;
+    padding: 50px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 80px;
+
+   
+}
+nav {
+    font-family: 'Lexend Deca', sans-serif;
+    padding: 70px;
+    font-size: 40px;
+    text-shadow: darkgreen;
+    color: cornsilk;
+
+}
+
+
+p {
+    font-family: 'Lexend Deca', sans-serif;
+    margin-left: 1200px;
+
+}
+h2 { font-family: 'Lexend Deca', sans-serif;
+    margin-left: auto;
+    width: 200px;
+
+
+}
+ul {font-family: 'Lexend Deca', sans-serif;
+    list-style-type: square;
+    padding: 60px;
+    background-color: aliceblue;
+    margin-top: 300px;
+}
+ol {display: flex; flex-direction: row;
+    justify-content: space-around;
+    list-style-type: circle;
+    font-family: 'Lexend Deca', sans-serif;
+}
+footer {background-color: silver;
+padding: 20px}
+footer img {height: 40px}
